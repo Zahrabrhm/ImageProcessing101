@@ -4,3 +4,6 @@
 [submodule "1.InterpolationTechniques"]
 	path = 1.InterpolationTechniques
 	url = https://github.com/Zahrabrhm/1.InterpolationTechniques.git
+[submodule "2.Image-Steganography-Techniques"]
+	path = 2.Image-Steganography-Techniques
+	url = https://github.com/Zahrabrhm/2.Image-Steganography-Techniques.git
