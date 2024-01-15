@@ -13,3 +13,6 @@
 [submodule "4.Edge-Detection-Algorithms"]
 	path = 4.Edge-Detection-Algorithms
 	url = https://github.com/Zahrabrhm/4.Edge-Detection-Algorithms.git
+[submodule "5.Face-Detection"]
+	path = 5.Face-Detection
+	url = https://github.com/Zahrabrhm/5.Face-Detection.git
