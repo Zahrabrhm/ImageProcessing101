@@ -1,3 +1,6 @@
 [submodule "InterpolationTechniques"]
 	path = InterpolationTechniques
 	url = https://github.com/Zahrabrhm/InterpolationTechniques.git
+[submodule "1.InterpolationTechniques"]
+	path = 1.InterpolationTechniques
+	url = https://github.com/Zahrabrhm/1.InterpolationTechniques.git
