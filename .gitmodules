@@ -7,3 +7,6 @@
 [submodule "2.Image-Steganography-Techniques"]
 	path = 2.Image-Steganography-Techniques
 	url = https://github.com/Zahrabrhm/2.Image-Steganography-Techniques.git
+[submodule "3.Simple-Hough-Transform"]
+	path = 3.Simple-Hough-Transform
+	url = https://github.com/Zahrabrhm/3.Simple-Hough-Transform.git
