@@ -10,3 +10,6 @@
 [submodule "3.Simple-Hough-Transform"]
 	path = 3.Simple-Hough-Transform
 	url = https://github.com/Zahrabrhm/3.Simple-Hough-Transform.git
+[submodule "4.Edge-Detection-Algorithms"]
+	path = 4.Edge-Detection-Algorithms
+	url = https://github.com/Zahrabrhm/4.Edge-Detection-Algorithms.git
